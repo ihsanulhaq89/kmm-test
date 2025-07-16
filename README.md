@@ -28,5 +28,16 @@ cd kmm-test
 - Select androidApp
 - Run on emulator or physical device
 
+### Running all tests
+```bash
+ ./gradlew :shared:testDebugUnitTest --rerun-tasks
+```
+
+OR
+```bash
+Run > Edit Configurations > + > Android Tests
+Select Tests in 'My_Application.shared.commonTest'
+Then -> Apply > Run
+````
 ### KMM Architecture and Cross-Platform Potential
 The shared module contains API clients, database interactions, and business logic written in Kotlin. Android uses Jetpack Compose for UI. iOS can reuse the shared logic via Kotlin Native, enabling faster development and feature parity across platforms.
