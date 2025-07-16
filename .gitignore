@@ -1,0 +1,46 @@
+# IntelliJ / Android Studio
+*.iml
+.idea/
+out/
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Android specific
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.kotlin_module
+.kotlinc/
+.ksp/
+.metadata/
+
+# iOS / Xcode
+xcuserdata/
+DerivedData/
+*.xcworkspace/
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.moved-aside/
+*.hmap
+*.ipa
+*.app.dSYM
+*.dSYM.zip
+*.dSYM
+
+# Cocoapods
+Pods/
+Podfile.lock
+
+# VSCode
+.vscode/
+
+# Misc
+.DS_Store
+*.log

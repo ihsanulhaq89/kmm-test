@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179627207545",
+    "project_id": "kmm-test-9b789",
+    "storage_bucket": "kmm-test-9b789.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179627207545:android:77b6cae9876cb0a91c5da8",
+        "android_client_info": {
+          "package_name": "com.app.myapplication.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs7ZuykkFNNWj4ErVxmkqI53Pi3X2q8yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
