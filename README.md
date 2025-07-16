@@ -16,6 +16,7 @@ A Kotlin Multiplatform Mobile (KMM) app for sending payments and viewing transac
 git clone https://github.com/ihsanulhaq89/kmm-payments-app.git
 cd kmm-test
 ./gradlew clean build
+```
 
 ### Architecture
 - shared: Business logic (Ktor, Firestore, models, repositories, services, use cases) 
